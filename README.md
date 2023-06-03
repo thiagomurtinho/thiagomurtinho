@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Thiago!
 
-### Entrepreneur, developer, and technology enthusiast. I love sharing knowledge and learning while helping the developer community grow.
+### Entrepreneur, developer, and technology enthusiast. I love sharing knowledge and learning while helping the developer community grow. 🧙
 
 - 🔭 I’m currently working on [Vista Capital](https://vistacapital.com.br) and [Ensino Cognitivo](https://ensinocognitivo.com.br)
 - ⚡ I’m currently sharing my opinions on [Thiago Report](https://thiago.report)
