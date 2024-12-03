@@ -2,8 +2,11 @@
 
 ### Entrepreneur, developer, and technology enthusiast. I love sharing knowledge and learning while helping the developer community grow. 🧙
 
-- 🔭 I’m currently working on [Grupo Soma](https://www.somagrupo.com.br/) and [Ensino Cognitivo](https://ensinocognitivo.com.br)
-- ⚡ I’m currently sharing my opinions on [Thiago Report](https://thiago.report)
+- 🔭 I’m currently working on [Geekie](https://www.geekie.com.br/) and [Ensino Cognitivo](https://ensinocognitivo.com.br)
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thiagomurtinho/)
+<!--
+- ⚡ I’m currently sharing my opinions on [Thiago Report](https://thiago.report) (on construction)
+-->
 
 <!--
 **thiagomurtinho/thiagomurtinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
