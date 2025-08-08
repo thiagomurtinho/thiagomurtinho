@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Thiago!
 
-### Senior software engineer, Tech Lead and technology enthusiast.
+### Senior Software Engineer, Tech Lead and technology enthusiast.
 
 - 🔭 I’m currently working on [Geekie](https://www.geekie.com.br/) from [Arco Tech](https://www.arcoeducacao.com.br/)
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/thiagomurtinho/)
